@@ -2,12 +2,12 @@
 
 Live theme preview available at [kirk-patrick.com](http://kirk-patrick.com).
 
-This is a theme for [Octopress](http://Octopress.org). Inspired by MediumFox and leveraging the latest [Bootstrap](http://getbootstrap.com/), and is a very clean, focused, and unique theme.
+This is a theme for [Octopress](http://Octopress.org). It's a very clean and focused theme that uses the latest version of [Bootstrap](http://getbootstrap.com/).
 
 ## Installation ##
 
 ````
-$ cd yourOctopress
+$ cd your-octopress-directory
 $ git submodule add https://github.com/kirkgo/mymedium .themes/mymedium
 $ git submodule update --init
 $ rake install['mymedium'] # for zsh, use: rake install\['mymedium'\] 
@@ -17,7 +17,7 @@ $ rake generate
 ### Grab the latest updates ###
 
 ````
-$ cd yourOctopress
+$ cd your-octopress-directory
 $ git submodule update
 $ rake generate
 # regenerate, make changes, etc...
@@ -25,7 +25,7 @@ $ rake generate
 
 ## Alternate Installation Without Git Submodule ##
 ````
-$ cd yourOctopress
+$ cd your-octopress-directory
 $ git clone https://github.com/kirkgo/mymedium .themes/mymedium
 $ rake install['mymedium'] # for zsh, use: rake install\['mymedium'\]
 $ rake generate
@@ -52,7 +52,3 @@ This is a draft and can definitely will be improved on. Pull requests are very m
 ## Demo ##
 
 This is the theme currently powering the site at [kirk-patrick.com](http://kirk-patrick.com)
-
-## Notice ## 
-
-This theme is based on the [MediumFox](https://github.com/sevenadrian/MediumFox) theme created by [Adrian Artiles](http://adrianartiles.com)
