@@ -1,6 +1,7 @@
 # MyMedium #
 
-This is a theme for [Octopress](http://Octopress.org). It's a very clean and focused theme based on MediumFox that uses the latest version of [Bootstrap](http://getbootstrap.com/).
+This is a theme for [Octopress](http://Octopress.org). 
+It's a very clean and focused theme based on MediumFox that uses the latest version of [Bootstrap](http://getbootstrap.com/).
 
 ## Installation ##
 
