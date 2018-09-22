@@ -46,6 +46,10 @@ I highly recommend using excerpts of your posts, this will allow your short exce
 
 To create an excerpt for your posts add `<!--more-->` in the actual markup for your posts. Anything before this tag will be used as the excerpt for said post.
 
+## Pull-Requests! ##
+
+This is a draft and can definitely will be improved on. Pull requests are very much welcomed and desired. Don't be afraid. Just do it! :)
+
 ## Copyright & License ##
 
 Copyright (C) 2016 Kirk Patrick - Released under the MIT License.
@@ -56,6 +60,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-## Pull-Requests! ##
-
-This is a draft and can definitely will be improved on. Pull requests are very much welcomed and desired. Don't be afraid. Just do it! :)
