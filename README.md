@@ -1,7 +1,5 @@
 # MyMedium #
 
-Live theme preview available at [kirk-patrick.com.br](http://kirk-patrick.com.br).
-
 This is a theme for [Octopress](http://Octopress.org). It's a very clean and focused theme based on MediumFox that uses the latest version of [Bootstrap](http://getbootstrap.com/).
 
 ## Installation ##
@@ -48,7 +46,3 @@ To create an excerpt for your posts add `<!--more-->` in the actual markup for y
 ## Pull-Requests! ##
 
 This is a draft and can definitely will be improved on. Pull requests are very much welcomed and desired. Don't be afraid. Just do it! :)
-
-## Demo ##
-
-This is the theme currently powering the site at [kirk-patrick.com.br](http://kirk-patrick.com.br)
