@@ -30,10 +30,11 @@ $ rake generate
 ````
 
 ## Customization ##
-You can change the main intro hero, the following landing row, and footer in the following locations;  
-hero: `source/_includes/custom/hero.html`  
-landing row: `source/_includes/custom/home_landing_row.html`  
-footer: `source/_includes/custom/footer.html`  
+You can change the main intro hero, the following landing row, and footer in the following locations:  
+
+* hero: `source/_includes/custom/hero.html`  
+* landing row: `source/_includes/custom/home_landing_row.html`  
+* footer: `source/_includes/custom/footer.html`  
 
 You can change the background image used behind the hero by replacing the image in `source/images/background.jpg`
 
